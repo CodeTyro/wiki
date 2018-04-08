@@ -45,15 +45,11 @@
 
 ### Background
 
-Evolution of business and its underlying processes always encourage technological advancement in computation & storage. This has led the world to roll through significant leaps in technology & the way its perceived globally.
+The introduction of TCP/IP enabled the fusion of the _"Information Era"_ with the _"Augmentation Era"_, both at individual and institutional levels. TCP/IP allowed the flattening of the world. Anybody with a computer could be connected to other computers around the world and it created an immense opportunity to host services to interact and exchange information with each other. New value driven models moved from being 'product-centric' to 'customer-centric'. The success of most companies was directly proportional to the number of customers the company served. Search engine companies hogged the limelight as they had the most number of customers using their services. Lots of start-ups like Amazon, Facebook, Airbnb and Uber leveraged the power of internet to discover and propagate business-driven network services. But these intermediaries and aggregators who influenced most parameters in the market dynamics have centralized core components driving these models, both at business and technology levels.
 
-It all started with the computing era in late 50’s and the early 60’s when computers were being used to process mathematical and scientific calculations to improve speed and accuracy. Data was moved from papers to disks and tapes. Traditional business processes were transformed by the help of computers resulting in increased efficiency. Computers increased the productivity of companies by several folds. A lot of companies started in this era wrote software to help businesses and then licensed these software to end users. The unit of value in this computing era was the ‘Product’ and the underlying technology played a very supportive role, although early in its existence.
+From the _"Information Era"_ where everything is centralised, the world has been moving on to an age where critical components are being decentralised. In contrast to the key driver as 'data' in _"Augmented Era"_, 'Interaction' is the key to driving new values in the hyper connected digital world. Blockchain is the new technology that will fundamentally change how we discover, generate and exchange values.
 
-The introduction of TCP/IP to the world proved to be the fusion of the _"Information Era"_ with the _"Augmentation Era"_, both at individual and institutional levels. TCP/IP allowed the flattening of the world. Anybody with a computer could be connected to other computers around the world and it created an immense opportunity to host services to interact and exchange information with each other. New value driven models moved from being 'product-centric' to 'customer-centric'. The success of most companies was directly proportional to the number of customers the company served. Search engine companies occupied mainstream spotlight as they had the best number of customers using their services. Lots of other start-ups like Amazon, Facebook, Airbnb and Uber were born that leveraged the power of internet to discover & propagate business-driven network effects. But such intermediaries and aggregators influenced everything in the market dynamics as most of the core components driving these models were centralized in the form of entities, both at business and technology levels.
-
-From the _"Information Era"_ where everything is centralised, the world has been moving on to an age where critical components are being decentralised. In contrast to the key driver as 'data' in _"Augmented Era"_, 'Interaction' is the key to driving new values in the hyper connected digital world. Blockchain is the new technological institution that will fundamentally change how we discover, generate & exchange values.
-
-With an inherent nature of insecurity, humans always depended upon trusted intermediaries to lower uncertainty in exchanging values. With the implementation of blockchain technology, we may be able to reduce the dependency on traditional institutions like banks, corporations and governments to reduce uncertainty and exchange value in the digital world. Several blockchain platforms & technologies have been able to find partial success in disintermediating the incumbents that failed to operate better under ethical & performance grounds.
+With an inherent insecure nature, humans have always depended on trusted intermediaries to lower uncertainty in exchanging values. With the implementation of blockchain technology, we may be able to reduce the dependency on traditional institutions like banks, corporations and governments to reduce uncertainty and exchange value in the digital world. Several blockchain platforms and technologies have been able to find partial success in disintermediating the incumbents that failed to operate better under ethical and performance grounds.
 
 ![Generations of blockchain - differenciation table](/images/whitepaper/KIP-Gen_vs_Feat.png)
 <p align="center"> <b>Fig 1:</b> Generations of Blockchain <sup><a href="#references">[1][2]</a></sup> </p>
@@ -80,8 +76,6 @@ With an inherent nature of insecurity, humans always depended upon trusted inter
 
 #### What is KIP ?
 
-KIP is a distributed intelligence protocol that creates hybrid cooperative digital mesh by integrating a new business-ready Gen3 blockchain technology, heterogeneous distributed data, trustable cognition and connected devices.
-
 We live in a digitally intensive era, where people and businesses are interacting continually with specific intents to satisfy requirements of mutual gain.
 Harnessing value out of such interactions demands tremendous amount of data and advanced models that demand accuracy of the persisted datapoints, yet often arrive at inaccurate results.
 
@@ -90,7 +84,8 @@ Even though, Blockchain technologies are able to showcase provenance of an asset
 
 The issue of multi-variate persistence was rescued thanks to off-chain data storage mechanisms introduced by IPFS, StorJ, Swarm, SIA etc.. Although storing the payload information pertaining to a transaction had become easier, the ability to reap trusted and meaningful contexts out of such transactions have been seldom possible due to the lack of an environment that facilitates distributed application of multi-variate information vectors on the persisted data.
 
-KIP resolves this issue with an elegant multilateral approach:  
+KIP (The Krama Intelligent Protocol) resolves this issue with an elegant multilateral approach. KIP is a distributed intelligence protocol that creates hybrid cooperative digital mesh by integrating a new business-ready Gen3 blockchain technology, heterogeneous distributed data, trustable cognition and connected devices.
+KIP offers:  
 > _**"Truly distributed intelligence empowered by provenance, creating context with multiple vectors - resulting in meaningful business interactions."**_
 
 KFS(Krama File System) ensures data management in a truly distributed manner by replicating the state changes of all data types cryptographically without any conflicts across the network.
@@ -101,9 +96,9 @@ These resulting data points pertaining to a user, shapes the future interactions
 
 This facilitates businesses to experiment new white spaces and offer incremental value to its existing propositions.
 
-#### Why KIP ?
+#### Advantages of KIP ?
 
-We are in a digitally connected world where constant interactions are creating networks that have a personality resembling real world human networks. KIP is essentially a cooperative digital mesh that supports creating the digital order. Krama Intelligent Protocol seamlessly brings together Intelligence, Connectedness and Trust (the new ICT!) to create a fundamental digital fabric on which new digital services can be directly built using distributed intelligence.
+We are in a digitally connected world where constant interactions are creating networks that have a personality resembling real-world human networks. KIP is essentially a cooperative digital mesh that supports creating the digital order. Krama Intelligent Protocol seamlessly brings together Intelligence, Connectedness and Trust (the new ICT!) to create a fundamental digital fabric on which new digital services can be directly built using distributed intelligence.
 
 Challenges of existing blockchain ecosystems:
 
